@@ -187,7 +187,7 @@ Conda is well-tested and widely used in the ML/AI community.
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/entbappy/End-to-End-Medical-Chatbot.git
+git clone https://github.com/sandipb0019/End-to-End-Medical-Chatbot.git
 cd End-to-End-Medical-Chatbot
 ```
 
@@ -245,7 +245,7 @@ UV is significantly faster for dependency resolution and installation (~10x fast
 #### Step 1-2: Clone and Navigate
 
 ```bash
-git clone https://github.com/entbappy/End-to-End-Medical-Chatbot.git
+git clone https://github.com/sandipb0019/End-to-End-Medical-Chatbot.git
 cd End-to-End-Medical-Chatbot
 ```
 
@@ -415,9 +415,9 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## 👤 Author
 
-**Boktiar Ahmed Bappy**
-- Email: entbappy73@gmail.com
-- GitHub: [@entbappy](https://github.com/entbappy)
+**Sandip Bhosale**
+- Email: sandipbhosale0019@gmail.com
+- GitHub: [@sandipb0019](https://github.com/sandipb0019)
 
 ---
 
@@ -430,15 +430,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-## 📞 Support
 
-For issues, questions, or suggestions, please:
-
-1. Check the [documentation](docs/)
-2. Search [existing issues](https://github.com/entbappy/End-to-End-Medical-Chatbot/issues)
-3. Open a [new issue](https://github.com/entbappy/End-to-End-Medical-Chatbot/issues/new)
-
----
 
 <div align="center">
 
